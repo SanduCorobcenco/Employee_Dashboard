@@ -5,7 +5,7 @@
 * [Usage](#Usage)
 * [License](#License)
 * [Contributor](#Contributor)
-* [Email-adress](#Email)
+* [Email-address](#Email)
 * [LinkedIn-profile](#LinkedIn-profile)
 * [GitHub-profile](#GitHub-profile)
 
@@ -26,7 +26,7 @@ MIT
 ### Contributor:
 Sandu Corobcenco
 
-### Email adress:
+### Email address:
 corobcenco.sandu@gmail.com
 
 ### LinkedIn profile:
